@@ -1,0 +1,5 @@
+Theme name:    Bones
+Description:   Starting point for your Anchor theme
+Author name:   Kieron
+Author site:   http://madebykieron.co.uk
+License:       http://licence.visualidiot.com
